@@ -49,7 +49,7 @@ An interactive **Power BI dashboard** to analyze attrition trends and KPIs.
 
 ### 🌍 Air Quality Index Prediction  
 ML-based web app predicting AQI with live API data, deployed on Streamlit.  
-🔗 [Repository Link](#)
+🔗 [Repository Link](https://github.com/hareem2806/AQICN_10Pearls)
 
 ---
 
