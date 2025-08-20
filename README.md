@@ -43,7 +43,7 @@ AI-powered system to identify **stuttering patterns** and suggest therapy via TT
 
 ### 📊 HR Attrition Dashboard  
 An interactive **Power BI dashboard** to analyze attrition trends and KPIs.  
-🔗 [Repository Link](#)
+🔗 [Repository Link](https://github.com/hareem2806/HR_AttritionAnalysis/tree/main)
 
 ---
 
