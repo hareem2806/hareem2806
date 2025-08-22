@@ -49,8 +49,7 @@ An interactive **Power BI dashboard** to analyze attrition trends and KPIs.
 
 ### 🌍 Smart AI Email Generator App 
 A smart AI-powered email generator that creates professional, context-aware emails., deployed on Streamlit and hosted on ngrok.  
-🔗 [Repository Link](https://github.com/hareem2806/smart-email-generator)
-
+🔗 [Repository Link](https://github.com/hareem2806/Smart-Email-Generator-App.git)
 ---
 
 ## 📫 Connect with Me  
