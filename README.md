@@ -37,7 +37,7 @@ A platform for businesses and educators to build **English/Urdu chatbots**.
 AI-powered system to identify **stuttering patterns** and suggest therapy via TTS.  
 - Used Hugging Face models (DistilHuBERT).  
 - Deployed with Gradio on Hugging Face Spaces.  
-🔗 [Repository Link](#)
+🔗 [Repository Link](https://github.com/Onaiza-Reaz/Stuttering-Detection-Recommendation-System-AI-Challenge)
 
 ---
 
@@ -47,9 +47,9 @@ An interactive **Power BI dashboard** to analyze attrition trends and KPIs.
 
 ---
 
-### 🌍 Air Quality Index Prediction  
-ML-based web app predicting AQI with live API data, deployed on Streamlit.  
-🔗 [Repository Link](https://github.com/hareem2806/AQICN_10Pearls)
+### 🌍 Smart AI Email Generator App 
+A smart AI-powered email generator that creates professional, context-aware emails., deployed on Streamlit and hosted on ngrok.  
+🔗 [Repository Link](https://github.com/hareem2806/smart-email-generator)
 
 ---
 
