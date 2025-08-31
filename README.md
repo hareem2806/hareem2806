@@ -29,7 +29,7 @@ A platform for businesses and educators to build **English/Urdu chatbots**.
 - Scrapes data from websites or PDFs.  
 - Implements a **RAG pipeline** for accurate responses.  
 - Provides JavaScript integration for websites.  
-🔗 [Repository Link](#) (add once uploaded)
+🔗 [Repository Link](https://github.com/ArishaAhmed/FYDP) (add once uploaded)
 
 ---
 
