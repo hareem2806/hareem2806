@@ -53,6 +53,12 @@ A smart AI-powered email generator that creates professional, context-aware emai
 
 ---
 
+### 🍲 Recipe Chatbot with RAG
+A Retrieval-Augmented Generation (RAG) based chatbot that helps users discover and explore healthy recipes. The chatbot can answer questions about recipe categories, subcategories, and provide detailed structured recipe information.
+🔗 [Repository Link](https://github.com/hareem2806/recipe-bot.git)
+
+
+
 ## 📫 Connect with Me  
 - LinkedIn: [linkedin.com/in/hareemfatima28](https://www.linkedin.com/in/hareemfatima28)  
 - GitHub: [github.com/hareem2806](https://github.com/hareem2806)  
